@@ -1,0 +1,10 @@
+C:\Users\36129382024.2n\Downloads\backend\backend\src\main\java\com\booktrack\BackendApplication.java
+C:\Users\36129382024.2n\Downloads\backend\backend\src\main\java\com\booktrack\controller\LivroController.java
+C:\Users\36129382024.2n\Downloads\backend\backend\src\main\java\com\booktrack\dto\LivroRequestDTO.java
+C:\Users\36129382024.2n\Downloads\backend\backend\src\main\java\com\booktrack\dto\LivroResponseDTO.java
+C:\Users\36129382024.2n\Downloads\backend\backend\src\main\java\com\booktrack\exception\GlobalExceptionHandler.java
+C:\Users\36129382024.2n\Downloads\backend\backend\src\main\java\com\booktrack\exception\ResourceNotFoundException.java
+C:\Users\36129382024.2n\Downloads\backend\backend\src\main\java\com\booktrack\model\Livro.java
+C:\Users\36129382024.2n\Downloads\backend\backend\src\main\java\com\booktrack\model\LivroStatus.java
+C:\Users\36129382024.2n\Downloads\backend\backend\src\main\java\com\booktrack\repository\LivroRepository.java
+C:\Users\36129382024.2n\Downloads\backend\backend\src\main\java\com\booktrack\service\LivroService.java
